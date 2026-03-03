@@ -104,7 +104,7 @@ headline="Read more from the community"
   {
     url: 'https://graphieros.github.io/graphieros-blog/blog/2026/npmx.html',
     title: 'vue-data-ui is on npmx npmx is on vue-data-ui',
-    authorHandle: 'graphieros.com',
+    authorHandle: 'graphieros.npmx.social',
     description: 'Graphieros explores a minimal npm-based workflow and why it exists.'
   },
   {
